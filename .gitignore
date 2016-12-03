@@ -1,0 +1,8 @@
+*.sln
+*.sdf
+*.opensdf
+**/Debug
+.gitignore~
+..gitignore*
+*.suo
+**/*.vcxproj*
