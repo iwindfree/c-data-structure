@@ -1,0 +1,7 @@
+-DDEBUG
+-I./ArrayList1
+-I./LinkedList1
+-I/usr/include
+-I/usr/include/c++/4.2.1
+
+
